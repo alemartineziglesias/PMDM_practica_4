@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">MyAvatar</string>
+    <string name="subtitulo">Crea tu avatar de forma sencilla</string>
+    <string name="nuevoAvatar">Nuevo avatar</string>
+    <string name="dialogoNombre">Nombre</string>
+    <string name="hintNombre">Escriba su nombre</string>
+    <string name="dialogoSexo">Sexo</string>
+    <string-array name="sexo">
+        <item>Hombre</item>
+        <item>Mujer</item>
+    </string-array>
+    <string name="dialogoEspecie">Especie</string>
+    <string-array name="especie">
+        <item>Elfo</item>
+        <item>Enano</item>
+        <item>Hobbit</item>
+        <item>Humano</item>
+    </string-array>
+    <string name="dialogoProfesion">Profesion</string>
+    <string-array name="profesion">
+        <item>Arquero</item>
+        <item>Guerrero</item>
+        <item>Mago</item>
+        <item>Herrero</item>
+        <item>Minero</item>
+    </string-array>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="resultadoNombre">Saludos, </string>
+    <string name="estadisticas">Estadísticas:</string>
+    <string name="resultadoVida">Vida: </string>
+    <string name="resultadoMagia">Magia: </string>
+    <string name="resultadoFuerza">Fuerza: </string>
+    <string name="resultadoVelocidad">Velocidad: </string>
+</resources>
